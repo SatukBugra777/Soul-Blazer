@@ -1,0 +1,91 @@
+h1{
+	text-align:center;
+}
+
+body
+{
+	background-image:https://i.ibb.co/MRZcw49/m-e-Uj-CVXVQoq-Wv7j-Y3ngg-FCZHm6-Yp-szvjc6zs-Hy-Dc-1.webp;
+}
+
+.selection{
+	text-align:center;
+	margin-bottom:100px;
+
+}
+div{
+	width:300px;
+	border-bottom:25px;
+}
+.blader
+{
+margin-left:250px;
+margin-right:50px;	
+}
+.One
+{
+margin-right:200px;
+margin-left:200px;
+background-color:white;
+border-color:RoyalBlue;
+}
+.Two
+{
+margin-right:200px;
+margin-left:200px;
+background-color:LightCyan;
+border-color:Gold;
+}
+.Three
+{
+margin-right:200px;
+margin-left:200px;
+background-color:black;
+border-color:MediumBlue;
+}
+.Four
+{
+margin-right:200px;
+margin-left:200px;
+background-color:DarkOrange;
+border-color:red;
+}
+.bladerII
+{
+	margin-left:180px;
+	width:500px;
+}
+.bladerIII
+{
+	margin-left:200px;
+	
+}
+.bladerIV
+{
+	margin-left:170px;
+}
+.Soul
+{
+	color:RoyalBlue;
+	text-align:center;
+	margin-right:80px;
+}
+.SOVL
+{
+	color:MidnightBlue;
+	text-align:center;
+	
+}
+.SOVLcalibur
+{
+	color:white;
+	text-align:center;
+}
+.middled
+{
+	text-align:center;
+}
+.Titles
+{
+	text-align:center;
+	color:OrangeRed;
+}
