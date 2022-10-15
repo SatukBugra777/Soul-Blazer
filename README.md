@@ -1,2 +1,2 @@
 # Soul-Blazer
-new stepps
+new steps
